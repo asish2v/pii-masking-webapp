@@ -1,0 +1,6 @@
+fastapi[standard]
+uvicorn
+easyocr
+opencv-python
+pillow
+spacy
